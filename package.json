@@ -1,0 +1,18 @@
+{
+  "name": "fonts",
+  "version": "1.0.0",
+  "description": "Estadão typefaces.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estadao/fonts.git"
+  },
+  "homepage": "https://github.com/estadao/fonts#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
